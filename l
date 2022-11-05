@@ -1,4 +1,4 @@
-return {
+userids {
     ["username"] = true
     ["Username"] = true
 }
