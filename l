@@ -1,4 +1,4 @@
 return {
-    ["joinump"] = true
+    ["username"] = true
     ["Username"] = true
 }
